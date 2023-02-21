@@ -9,3 +9,6 @@ In this project we have build a complete snake and apple video game using pygame
 
 I made a pokemon version where the poke ball catches pikachu and adds more poke balls as it keeps catching pikachu
 
+
+![Screenshot_20230214_022153](https://user-images.githubusercontent.com/98884539/220272616-469b4a03-aea6-4080-a971-b64905d5eec5.png)
+
